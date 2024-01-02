@@ -1,0 +1,15 @@
+Début projet:
+    ✔ => Initialisation du Projet via la Seed @done(24-01-02 16:54)
+    ☐ => Création  du model d'un post
+
+    Proces "C.R.U.D" pour les Posts AmtramGram:
+        ☐ => Voir tout les posts
+        ☐ => Créer un post
+        ☐ => Accéder à un post
+        ☐ => Modifier un post 
+        ☐ => Supprimer un post 
+
+    ☐ Ajouter le MiddleWare (Méthode qui permet de vérifier que nous sommes authentifiés) sur l'Update, la Création & le Delete
+    
+
+    
