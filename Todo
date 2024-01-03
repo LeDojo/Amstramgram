@@ -6,8 +6,8 @@ Début projet:
         ✔ => Voir tout les posts @done(24-01-02 17:33)
         ✔ => Créer un post @done(24-01-03 11:06)
         ✔ => Accéder à un post @done(24-01-03 11:54)
-        ☐ => Modifier un post 
-        ☐ => Supprimer un post 
+        ✔ => Modifier un post @done(24-01-03 12:25)
+        ✔ => Supprimer un post @done(24-01-03 12:31)
 
     ☐ Ajouter le MiddleWare (Méthode qui permet de vérifier que nous sommes authentifiés) sur l'Update, la Création & le Delete
     
