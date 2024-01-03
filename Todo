@@ -9,7 +9,11 @@ Début projet:
         ✔ => Modifier un post @done(24-01-03 12:25)
         ✔ => Supprimer un post @done(24-01-03 12:31)
 
-    ☐ Ajouter le MiddleWare (Méthode qui permet de vérifier que nous sommes authentifiés) sur l'Update, la Création & le Delete
+    Ajouter le MiddleWare (Méthode qui permet de vérifier que nous sommes authentifiés) sur l'Update, la Création & le Delete:
+        ✔ Installer Multer @done(24-01-03 17:13)
+        ✔ Création du fichier de configuration Middleware @done(24-01-03 17:13)
+        ✔ Appel du fichier dans le root @done(24-01-03 17:13)
+        ✔ Modification du dossier de destination pour les images @done(24-01-03 17:13)
     
 
     To be continued ...
