@@ -14,6 +14,11 @@ Début projet:
         ✔ Création du fichier de configuration Middleware @done(24-01-03 17:13)
         ✔ Appel du fichier dans le root @done(24-01-03 17:13)
         ✔ Modification du dossier de destination pour les images @done(24-01-03 17:13)
-    
+    Ajout du Middleware auth.js (vérification de la connexion d'un utilisateur):
+        ✔ => Création de la fonction authenticate @done(24-01-04 12:29)
+            ✔ Utilisation de la méthode verify pour valider le token @done(24-01-04 12:29)
+        ✔ => Vérification du fonctionnement avec Postman @done(24-01-04 12:29)
+            ✔ Onglet authorization et choisir "Bearer Token" @done(24-01-04 12:29)
+
 
     To be continued ...
